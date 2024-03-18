@@ -1,7 +1,7 @@
-# Cognica Examples
+# Aeca Examples
 [English | [Korean](README.ko.md)]
 
-Cognica Examples deals with examples of how to input and search data using Cognica.
+Aeca Examples deals with examples of how to input and search data using Aeca.
 
 ## Example List
 
